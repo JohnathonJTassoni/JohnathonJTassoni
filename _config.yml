@@ -1,3 +1,5 @@
 name: Johnathon Tassoni
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-midnight
